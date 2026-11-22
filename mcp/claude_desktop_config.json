@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "pdf-to-text-ocr": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://mcp.apify.com?tools=erdnal_api/erdnal-documents-text-extraction"
+      ]
+    }
+  }
+}

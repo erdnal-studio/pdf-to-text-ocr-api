@@ -1,0 +1,12 @@
+{
+  "name": "pdf-to-text-ocr-api",
+  "private": true,
+  "type": "module",
+  "description": "PDF to text and OCR from Node.js with the Apify API",
+  "scripts": {
+    "start": "node pdf-to-text.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  }
+}
